@@ -6,7 +6,7 @@
 
 Whether the process is running inside SSH.
 
-Requires the `--allow-env` flag.
+**Requires the `--allow-env` flag.**
 
 ## Usage
 
